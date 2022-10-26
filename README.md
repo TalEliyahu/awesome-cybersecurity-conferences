@@ -10,4 +10,4 @@
 
 # Call for Papers 
 
-# Otherw
+# Others
