@@ -16,6 +16,7 @@
 
 | Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language
 |---|---|---|---|---|---|---|
+| 6/2022 | NDC Melbourne | N/A | [YouTube](https://www.youtube.com/watch?v=reL-ke2J03o&list=PL03Lrmd9CiGccT0ERZ9YywROnQryo6gLG) | N/A | Melbourne, Australia | English 
  
 # Call For Papers for Security Conferences
 - [CFP Time](https://www.cfptime.org/home) 
