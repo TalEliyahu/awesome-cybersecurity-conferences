@@ -12,7 +12,7 @@
 | 7/2022 | Summercon | [Slides](https://www.summercon.org/presentations/)| [YouTube](https://www.youtube.com/channel/UCEv3yNaPBY8csJ1ZRbmxj6g/videos) | [@Summercon](https://twitter.com/SummerC0n) | Brooklyn, USA | English 
 | 5/2022 | Wild West Hackin' Fest - Way West | N/A | [YouTube](https://www.youtube.com/watch?v=umQD0E5_rG0&list=PLXF21PFPPXTOuxiwHpTvAORwocfEKgRh0) | [@WWHackinFest](https://twitter.com/WWHackinFest) | San Diego, USA | English 
 
-- Other Related Conferences
+# Other Related Conferences
 
 | Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language
 |---|---|---|---|---|---|---|
