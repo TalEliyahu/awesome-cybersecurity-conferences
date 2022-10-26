@@ -10,6 +10,6 @@
 
 # Call For Papers for Security Conferences
 - [CFP Time](https://www.cfptime.org/home) 
-- [WikiCFP](http://wikicfp.com/cfp/)
+- [WikiCFP]([http://wikicfp.com/cfp/](http://www.wikicfp.com/cfp/call?conference=cyber%20security))
 
 # Others
