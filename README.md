@@ -10,5 +10,6 @@
 
 # Call For Papers for Security Conferences
 - [CFP Time](https://www.cfptime.org/home) 
+- [WikiCFP](http://wikicfp.com/cfp/)
 
 # Others
