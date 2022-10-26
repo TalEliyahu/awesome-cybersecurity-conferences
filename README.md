@@ -12,6 +12,7 @@
 | 8/2022 | 31st USENIX Security Symposium | N/A | [YouTube](https://www.youtube.com/c/UsenixOrg/videos) | [#usesec22](https://twitter.com/hashtag/usesec22) | Boston, USA | English 
 | 7/2022 | Summercon | [Slides](https://www.summercon.org/presentations/)| [YouTube](https://www.youtube.com/channel/UCEv3yNaPBY8csJ1ZRbmxj6g/videos) | [@Summercon](https://twitter.com/SummerC0n) | Brooklyn, USA | English 
 | 5/2022 | Wild West Hackin' Fest - Way West | N/A | [YouTube](https://www.youtube.com/watch?v=umQD0E5_rG0&list=PLXF21PFPPXTOuxiwHpTvAORwocfEKgRh0) | [@WWHackinFest](https://twitter.com/WWHackinFest) | San Diego, USA | English 
+| 5/2022 | Nullcon Berlin | [Slides](https://nullcon.net/archive-download/berlin-2022) | [YouTube](https://www.youtube.com/watch?v=ydRQf7HQi20&list=PLWv48qIcomCaVkSFaot_zOS-1Ok8Qw6nw) | [#NullconDE2023](https://twitter.com/search?q=%23NullconDE2023) | Berlin, Germany | English 
 
 # Other Related Conferences
 
