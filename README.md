@@ -21,4 +21,3 @@
 # Contributing
 
 Create a pull request if I missed any conference - response time usually within 48 hours.
-Ω
