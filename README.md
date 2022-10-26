@@ -5,7 +5,7 @@
 | 10/2022 | Hacks & Hops | N/A | [YouTube](https://www.youtube.com/watch?v=dVavARkyj5k&list=PLETKkWHNA3qgAvqEqg8LSWx6In-lMWpMs) | [#hacksandhops2022](https://mobile.twitter.com/hashtag/hacksandhops2022) | Minneapolis, USA | English 
 | 10/2022 | CyberChess | N/A | [YouTube](https://www.youtube.com/watch?v=Iaw97hW7Gj8&list=PLmbEh4-pWjw4R9AcMuKyVOFqv4xA2Hg54) | N/A | Riga, Latvia | English 
 | 9/2022 | Virus Bulletin | View Video Description | [YouTube](https://www.youtube.com/watch?v=mrTdSdMMgnk&list=PLffioUnqXWkcmBEM9sqWD9G6h-FRqVobK) | [#vb2022](https://twitter.com/hashtag/vb2022) | Prague, Czech Republic | English 
-| 8/2022 | DEF CON 30 | [Slides](https://forum.defcon.org/node/241811) | [YouTube](https://www.youtube.com/user/DEFCONConference/playlists) | [#defcon](https://twitter.com/defcon) | Las Vegas, USA| English 
+| 8/2022 | DEF CON 30 | [Slides](https://forum.defcon.org/node/241811) | [YouTube](https://www.youtube.com/user/DEFCONConference/playlists) | [@defcon](https://twitter.com/defcon) | Las Vegas, USA| English 
 | 8/2022 | 31st USENIX Security Symposium | N/A | [YouTube](https://www.youtube.com/c/UsenixOrg/videos) | [#usesec22](https://twitter.com/hashtag/usesec22) | Boston, USA | English 
 | 7/2022 | Summercon | [Slides](https://www.summercon.org/presentations/)| [YouTube](https://www.youtube.com/channel/UCEv3yNaPBY8csJ1ZRbmxj6g/videos) | [@Summercon](https://twitter.com/SummerC0n) | Brooklyn, USA | English 
 | 5/2022 | Wild West Hackin' Fest - Way West | N/A | [YouTube](https://www.youtube.com/watch?v=umQD0E5_rG0&list=PLXF21PFPPXTOuxiwHpTvAORwocfEKgRh0) | [@WWHackinFest](https://twitter.com/WWHackinFest) | San Diego, USA | English 
