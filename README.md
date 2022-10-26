@@ -1,7 +1,4 @@
-# awsome_cybersecurity_conferences
-awsome_cybersecurity_conferences
-
-# Conference Talks
+# Conferences
 
 | Year | Title | Conference | Slides | Video | Twitter| Location | Language
 |---|---|---|---|---|---|---|---|
@@ -9,3 +6,8 @@ awsome_cybersecurity_conferences
 | 2020 | Ransomware | SANS Cyber Defence Summit | [Slides](2020%20-%20SANS%20Cyber%20Defence%20-%20Ransomware%20Defense%20and%20Response.pdf) | [YouTube](https://www.youtube.com/) |
 | 2020 | Fighting Hackers | ISF Global  |   |   |
 | 2018 | Structured | BSides |  | [YouTube](https://www.youtube.com/watch |
+
+
+# Call for Papers 
+
+# Otherw
