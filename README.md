@@ -8,6 +8,7 @@
 | 2018 | Structured | BSides |  | [YouTube](https://www.youtube.com/watch |
 
 
-# Call for Papers 
+# Call For Papers for Security Conferences
+- [CFP Time](https://www.cfptime.org/home) 
 
 # Others
