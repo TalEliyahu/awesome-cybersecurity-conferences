@@ -3,6 +3,7 @@
 | Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language
 |---|---|---|---|---|---|---|
 | 10/2022 | Hacks & Hops | N/A | [YouTube](https://www.youtube.com/watch?v=dVavARkyj5k&list=PLETKkWHNA3qgAvqEqg8LSWx6In-lMWpMs) | [#hacksandhops2022](https://mobile.twitter.com/hashtag/hacksandhops2022) | Minneapolis, USA | English 
+| 10/2022 | Cyber and Threat Intelligence Summit (CTIS) | N/A | [YouTube](https://www.youtube.com/channel/UCI6B0zYvK-7FdM0Vgh3v3Tg/videos) | [#hacksandhops2022](https://twitter.com/hashtag/CTIS2022) | Kirchberg, Luxembourg | English 
 | 10/2022 | CyberChess | N/A | [YouTube](https://www.youtube.com/watch?v=Iaw97hW7Gj8&list=PLmbEh4-pWjw4R9AcMuKyVOFqv4xA2Hg54) | N/A | Riga, Latvia | English 
 | 9/2022 | Virus Bulletin | View Video Description | [YouTube](https://www.youtube.com/watch?v=mrTdSdMMgnk&list=PLffioUnqXWkcmBEM9sqWD9G6h-FRqVobK) | [#vb2022](https://twitter.com/hashtag/vb2022) | Prague, Czech Republic | English 
 | 8/2022 | DEF CON 30 | [Slides](https://forum.defcon.org/node/241811) | [YouTube](https://www.youtube.com/user/DEFCONConference/playlists) | [@defcon](https://twitter.com/defcon) | Las Vegas, USA| English 
