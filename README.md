@@ -6,7 +6,7 @@
 | 10/2022 | Cyber and Threat Intelligence Summit (CTIS) | N/A | [YouTube](https://www.youtube.com/channel/UCI6B0zYvK-7FdM0Vgh3v3Tg/videos) | [#CTIS2022](https://twitter.com/hashtag/CTIS2022) | Kirchberg, Luxembourg | English 
 | 10/2022 | CyberChess | N/A | [YouTube](https://www.youtube.com/watch?v=Iaw97hW7Gj8&list=PLmbEh4-pWjw4R9AcMuKyVOFqv4xA2Hg54) | N/A | Riga, Latvia | English 
 | 10/2022 | BSides Portland (PDX)| N/A | [YouTube](https://www.youtube.com/playlist?list=PLqdWoaf0o9zefFAO7wHFVp032cbX1IdfM) | [@BSidesPDX](https://twitter.com/BSidesPDX) | Portland, USA | English 
-| 10/2022 | BSides Raleigh-Durham (RDU) | N/A | [YouTube](https://www.youtube.com/watch?v=WlXnyixRWFY) | [@BSidesRDU](https://twitter.com/BSidesRDU) | Durham, USA | English 
+| 10/2022 | BSides Raleigh-Durham (RDU) | N/A | [YouTube](https://www.youtube.com/watch?v=WlXnyixRWFY) | [@BSidesRDU](https://twitter.com/BSidesRDU) | Durham, USA | English | [Schedule](https://bsidesrdu.org/#schedule)
 | 9/2022 | Linux Security Summit Europe | N/A | [YouTube](https://www.youtube.com/playlist?list=PLbzoR-pLrL6q_BmgE0TN93cx7yYwsJ_Kz) | [@LinuxSecSummit](https://twitter.com/LinuxSecSummit) | Dublin, Ireland | English | [Schedule](https://events.linuxfoundation.org/linux-security-summit-europe/program/schedule/)
 | 9/2022 | Virus Bulletin | View Video Description | [YouTube](https://www.youtube.com/watch?v=mrTdSdMMgnk&list=PLffioUnqXWkcmBEM9sqWD9G6h-FRqVobK) | [#vb2022](https://twitter.com/hashtag/vb2022) | Prague, Czech Republic | English 
 | 9/2022 | BSides Tallinn | N/A | [YouTube](https://www.youtube.com/watch?v=6cOz62E0xeQ&list=PL_rRZZspOkM5PxFbBxiTgMUt-GEqty-D6) | [@bsidesTLL](https://twitter.com/bsidestll) | Tallinn, Estonia | English 
