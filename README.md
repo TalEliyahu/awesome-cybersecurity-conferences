@@ -22,6 +22,7 @@
 | 5/2022 | Wild West Hackin' Fest - Way West | N/A | [YouTube](https://www.youtube.com/watch?v=umQD0E5_rG0&list=PLXF21PFPPXTOuxiwHpTvAORwocfEKgRh0) | [@WWHackinFest](https://twitter.com/WWHackinFest) | San Diego, USA | English 
 | 5/2022 | Nullcon Berlin | [Slides](https://nullcon.net/archive-download/berlin-2022) | [YouTube](https://www.youtube.com/watch?v=ydRQf7HQi20&list=PLWv48qIcomCaVkSFaot_zOS-1Ok8Qw6nw) | [#NullconDE2023](https://twitter.com/search?q=%23NullconDE2023) | Berlin, Germany | English 
 | 5/2022 | GeeCON | N/A | [YouTube](https://www.youtube.com/watch?v=OMSNPmGzOPw&list=PLxZQe6I1pYpcvpGzL8Fgn1cDxHQIi48iT) | [#geecon2022](https://twitter.com/hashtag/geecon2022)/[@GeeCON](https://twitter.com/geecon) | Kraków, Prague | English | [Schedule](https://2022.geecon.org/schedule/)
+| 4/2022 | NahamCon | N/A | [YouTube](https://www.youtube.com/playlist?list=PLKAaMVNxvLmAcY4n3an_SPwpfseHzZ6Yo) | [#NahamCon2022](https://twitter.com/hashtag/NahamCon2022) | Virtual | English | [Schedule]([https://2022.geecon.org/schedule/](https://www.nahamcon.com/)
 | 3/2022 | Securi-Tay | N/A | [YouTube](https://www.youtube.com/playlist?list=PLqjUlpQ6EnBzeuNcI8rIpF245oy76gUZZ) | [@AbertayHackers](https://twitter.com/AbertayHackers) | Dundee, United Kingdom | English | 
 
 # Call For Papers for Security Conferences
