@@ -2,7 +2,7 @@
 
 | Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
 |---|---|---|---|---|---|---|---|
-| 11/2022 |  FIRST Cyber Threat Intelligence Symposium | N/A | [YouTube](https://www.youtube.com/playlist?list=PLBAUUhONOrO_RJVUf_0-BCvY_REqyQ763) | [#FIRSTCTI22](https://twitter.com/hashtag/FIRSTCTI22) | Minneapolis, USA | English | [Schedule](https://www.first.org/events/symposium/berlin2022/program)
+| 11/2022 |  FIRST Cyber Threat Intelligence Symposium | N/A | [YouTube](https://www.youtube.com/playlist?list=PLBAUUhONOrO_RJVUf_0-BCvY_REqyQ763) | [#FIRSTCTI22](https://twitter.com/hashtag/FIRSTCTI22) | Berlin, Germany | English | [Schedule](https://www.first.org/events/symposium/berlin2022/program)
 | 10/2022 | Hacks & Hops | N/A | [YouTube](https://www.youtube.com/watch?v=dVavARkyj5k&list=PLETKkWHNA3qgAvqEqg8LSWx6In-lMWpMs) | [#hacksandhops2022](https://mobile.twitter.com/hashtag/hacksandhops2022) | Minneapolis, USA | English | [Schedule](https://hacksandhops.com/schedule/)
 | 10/2022 | Cyber and Threat Intelligence Summit (CTIS) | N/A | [YouTube](https://www.youtube.com/channel/UCI6B0zYvK-7FdM0Vgh3v3Tg/videos) | [#CTIS2022](https://twitter.com/hashtag/CTIS2022) | Kirchberg, Luxembourg | English | [Schedule](https://cti-summit.org/schedule/)
 | 10/2022 | CyberChess | N/A | [YouTube](https://www.youtube.com/watch?v=Iaw97hW7Gj8&list=PLmbEh4-pWjw4R9AcMuKyVOFqv4xA2Hg54) | N/A | Riga, Latvia | English | [Schedule](https://cyberchess.lv/)
