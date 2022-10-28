@@ -1,4 +1,4 @@
-# Conferences
+# 2022 Conferences
 
 | Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
 |---|---|---|---|---|---|---|---|
