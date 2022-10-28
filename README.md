@@ -35,6 +35,7 @@
 | 5/2022 | BSides Knoxville | N/A | [YouTube](https://www.youtube.com/watch?v=WEr6tHv9pfw&list=PLSLl20f41MU4xeVXtsjn9YC5hEJ7Qo9E7) | [@BSidesKnoxville](https://twitter.com/BSidesKnoxville)| Singapore | English | [Schedule](https://bsidesknoxville2022.sched.com/)
 | 4/2022 | BSides Charm | N/A | [YouTube](https://www.youtube.com/watch?v=1pabMFuGm4U&list=PLKRput5_6qN-oUya0kLBVPWelDL5pEuSv) | [@bsidescharm](https://twitter.com/bsidescharm) | Towson, USA | English | [Schedule](https://bsidescharm.org/archive/2022/schedule/)
 | 4/2022 | NahamCon | N/A | [YouTube](https://www.youtube.com/playlist?list=PLKAaMVNxvLmAcY4n3an_SPwpfseHzZ6Yo) | [#NahamCon2022](https://twitter.com/hashtag/NahamCon2022) | Virtual | English | [Schedule](https://www.nahamcon.com/)
+| 4/2022 | Purple Hats | N/A | [YouTube](https://www.youtube.com/playlist?list=PLUgZhmpDV4j6pnNdfzVQea7wOTioGMm9R) | [#PurpleHatsConf](https://twitter.com/hashtag/PurpleHatsConf) | Los Altos, USA | English | [Schedule](https://www.purplehats.org/2022/agenda)
 | 4/2022 | BSides Sofia | N/A | [YouTube](https://www.youtube.com/playlist?list=PLKAaMVNxvLmAcY4n3an_SPwpfseHzZ6Yo) | [@bsidesbg](https://twitter.com/bsidesbg) | Sofia, Bulgaria | Bulgarian | 
 | 3/2022 | Securi-Tay | N/A | [YouTube](https://www.youtube.com/playlist?list=PLqjUlpQ6EnBzeuNcI8rIpF245oy76gUZZ) | [@AbertayHackers](https://twitter.com/AbertayHackers) | Dundee, United Kingdom | English | 
 
