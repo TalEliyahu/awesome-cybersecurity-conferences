@@ -42,7 +42,9 @@
 
 # Others
 - [Computer Security Conference Ranking and Statistic](https://people.engr.tamu.edu/guofei/sec_conf_stat.htm)
-- [Upcoming Cybersecurity Events](https://cyware.com/cyber-security-events)
+- [Upcoming Cybersecurity Events:
+  - (https://cyware.com/cyber-security-events)
+  - https://infosec-conferences.com/
 
 
 # Contributing
