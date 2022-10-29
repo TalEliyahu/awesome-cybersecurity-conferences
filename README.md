@@ -45,6 +45,7 @@
 | 4/2022 | BSides Sofia | N/A | [YouTube](https://www.youtube.com/playlist?list=PLKAaMVNxvLmAcY4n3an_SPwpfseHzZ6Yo) | [@bsidesbg](https://twitter.com/bsidesbg) | Sofia, Bulgaria | Bulgarian | 
 | 3/2022 | Securi-Tay | N/A | [YouTube](https://www.youtube.com/playlist?list=PLqjUlpQ6EnBzeuNcI8rIpF245oy76gUZZ) | [@AbertayHackers](https://twitter.com/AbertayHackers) | Dundee, United Kingdom | English | 
 | 2/2022 | OffensiveCon22 | N/A | [YouTube](https://www.youtube.com/playlist?list=PLYvhPWR_XYJnPvrhXE4RYvwZhV26nYTIp) | [@offensive_con](https://twitter.com/offensive_con) | Berlin, Germany | English | [Schedule](https://www.offensivecon.org/agenda/2022.html)
+| 1/2022 | PancakesCon 3 | N/A | [YouTube](https://www.youtube.com/watch?v=NvrGZXIIEfQ&list=PLe93Pz9B0NKMfpC3SD_vB373ssN5IMUto) | [@PancakesCon](https://twitter.com/PancakesCon) | Virtual | English | [Schedule](https://pancakescon.com/2022-conference-information/)
 
 # Call For Papers for Security Conferences
 - [CFP Time](https://www.cfptime.org/home) 
