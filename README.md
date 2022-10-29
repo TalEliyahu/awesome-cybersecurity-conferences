@@ -42,6 +42,7 @@
 | 4/2022 | Purple Hats | N/A | [YouTube](https://www.youtube.com/playlist?list=PLUgZhmpDV4j6pnNdfzVQea7wOTioGMm9R) | [#PurpleHatsConf](https://twitter.com/hashtag/PurpleHatsConf) | Los Altos, USA | English | [Schedule](https://www.purplehats.org/2022/agenda)
 | 4/2022 | BSides Sofia | N/A | [YouTube](https://www.youtube.com/playlist?list=PLKAaMVNxvLmAcY4n3an_SPwpfseHzZ6Yo) | [@bsidesbg](https://twitter.com/bsidesbg) | Sofia, Bulgaria | Bulgarian | 
 | 3/2022 | Securi-Tay | N/A | [YouTube](https://www.youtube.com/playlist?list=PLqjUlpQ6EnBzeuNcI8rIpF245oy76gUZZ) | [@AbertayHackers](https://twitter.com/AbertayHackers) | Dundee, United Kingdom | English | 
+| 2/2022 | OffensiveCon22 | N/A | [YouTube](https://www.youtube.com/playlist?list=PLYvhPWR_XYJnPvrhXE4RYvwZhV26nYTIp) | [@offensive_con](https://twitter.com/offensive_con) | Berlin, Germany | English | [Schedule](https://www.offensivecon.org/agenda/2022.html)
 
 # Call For Papers for Security Conferences
 - [CFP Time](https://www.cfptime.org/home) 
