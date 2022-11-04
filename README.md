@@ -2,7 +2,6 @@
 
 | Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
 |---|---|---|---|---|---|---|---|
-| 12/2022 |  HackInBo | [Slides](https://github.com/drego85/HackInBo) | [YouTube](https://www.youtube.com/channel/UCu6uzKY7A5jQCx9yHUL_vfQ) | [@HackInBO](https://twitter.com/hackinbo) | Bologna, Italy | English | [Schedule](https://www.hackinbo.it/programma.php)
 | 11/2022 |  FIRST Cyber Threat Intelligence Symposium | N/A | [YouTube](https://www.youtube.com/playlist?list=PLBAUUhONOrO_RJVUf_0-BCvY_REqyQ763) | [#FIRSTCTI22](https://twitter.com/hashtag/FIRSTCTI22)/[@FIRSTdotOrg](https://twitter.com/firstdotorg) | Berlin, Germany | English | [Schedule](https://www.first.org/events/symposium/berlin2022/program)
 | 10/2022 | Hexacon | N/A | [YouTube](https://www.youtube.com/playlist?list=PLiEHUFG7koLsvukxg6wI1yaXRl_pmh3PZ) | [#HEXACON2022](https://twitter.com/hashtag/HEXACON2022)/[@hexacon_fr](https://twitter.com/hexacon_fr) | Paris, France | English | [Schedule](https://www.hexacon.fr//conference/agenda/)
 | 10/2022 | No Hat | [Slides](https://www.nohat.it/program) | [YouTube](https://www.youtube.com/playlist?list=PLHAChCRZgm7OIJwo5nse29UvrZu5Ow8Eu) | [#nohatcon](https://twitter.com/nohatcon) | Bergamo, Italy | English | [Schedule](https://www.nohat.it/program)
@@ -57,6 +56,7 @@
 | 5/2022 | BSides Cayman | N/A | [YouTube](https://www.youtube.com/watch?v=Xz9dTAQ3vNc&list=PL5VStFpXceT2S_PcLY-2TvDKU_jkpOOEt) | [@BsidesKY](https://twitter.com/BsidesKY)| Cayman Islands | English | [Schedule](https://bsides.ky/schedule/)
 | 5/2022 | NorthSec | N/A | [YouTube](https://www.youtube.com/playlist?list=PLuUtcRxSUZUoPhqaMk0FLpSPKghk4fXGy) | [@NorthSec_io](https://twitter.com/northsec_io)| Montreal, Canada | English | [Schedule](https://nsec.io/schedule/)
 | 5/2022 | BSides Knoxville | N/A | [YouTube](https://www.youtube.com/watch?v=WEr6tHv9pfw&list=PLSLl20f41MU4xeVXtsjn9YC5hEJ7Qo9E7) | [@BSidesKnoxville](https://twitter.com/BSidesKnoxville)| Singapore | English | [Schedule](https://bsidesknoxville2022.sched.com/)
+| 5/2022 |  HackInBo Spring | [Slides](https://github.com/drego85/HackInBo) | [YouTube](https://www.youtube.com/playlist?list=PLsCYUwOxHkt5DM4DXSv0YqemzEKhsxzBw) | [@HackInBO](https://twitter.com/hackinbo) | Bologna, Italy | English | N/A
 | 4/2022 | ZAPCon | N/A | [YouTube](https://www.youtube.com/playlist?list=PLz_NN8o2uh8A0rKg-2y-5FoAffGB1UncM) | [@ZAProxyCon](https://twitter.com/ZAProxyCon) | Virtual | English | 
 | 4/2022 | CarolinaCon Online 2 | N/A | [YouTube](https://www.youtube.com/playlist?list=PLdh5UOMgeDvkH3JI0-TQZBD1PnPqiPzg1) | [@CarolinaCon](https://twitter.com/CarolinaCon) | Virtual | English | [Schedule](https://carolinacon.org/schedule.html)
 | 4/2022 | BSides Prishtina | N/A | [YouTube](https://www.youtube.com/playlist?list=PL-rdVaTC5mZmg9BWHccwU3zwc9TwlSBQp) | [@BSidesPrishtina](https://twitter.com/bsidesprishtina) | Prishtina, Kosova | English | [Schedule](https://bsidesprishtina.org/2022/agenda.html)
