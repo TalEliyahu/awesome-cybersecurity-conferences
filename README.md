@@ -2,6 +2,7 @@
 
 | Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
 |---|---|---|---|---|---|---|---|
+| 12/2022 |  HackInBo | [Slides](https://github.com/drego85/HackInBo) | [YouTube](https://www.youtube.com/channel/UCu6uzKY7A5jQCx9yHUL_vfQ) | [@HackInBO](https://twitter.com/hackinbo) | Bologna, Italy | English | [Schedule](https://www.hackinbo.it/programma.php)
 | 11/2022 |  FIRST Cyber Threat Intelligence Symposium | N/A | [YouTube](https://www.youtube.com/playlist?list=PLBAUUhONOrO_RJVUf_0-BCvY_REqyQ763) | [#FIRSTCTI22](https://twitter.com/hashtag/FIRSTCTI22)/[@FIRSTdotOrg](https://twitter.com/firstdotorg) | Berlin, Germany | English | [Schedule](https://www.first.org/events/symposium/berlin2022/program)
 | 10/2022 | Hexacon | N/A | [YouTube](https://www.youtube.com/playlist?list=PLiEHUFG7koLsvukxg6wI1yaXRl_pmh3PZ) | [#HEXACON2022](https://twitter.com/hashtag/HEXACON2022)/[@hexacon_fr](https://twitter.com/hexacon_fr) | Paris, France | English | [Schedule](https://www.hexacon.fr//conference/agenda/)
 | 10/2022 | No Hat | [Slides](https://www.nohat.it/program) | [YouTube](https://www.youtube.com/playlist?list=PLHAChCRZgm7OIJwo5nse29UvrZu5Ow8Eu) | [#nohatcon](https://twitter.com/nohatcon) | Bergamo, Italy | English | [Schedule](https://www.nohat.it/program)
