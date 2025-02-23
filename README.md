@@ -91,8 +91,11 @@
 - [Infosec Events](https://twitter.com/i/lists/1578319592195227649) - Twitter list follwing all cybersecurity conferences accounts.
 - [InfoCon](https://infocon.org/) - InfoCon is a community supported, non-commercial archive of all the past hacking related convention material that can be found.
 
-
-
 # Contributing
 
 Please create a pull request if I missed any conference - response time usually within 48 hours.
+
+# Contributor 
+
+Matanel Khakaf
+
