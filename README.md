@@ -97,5 +97,5 @@ Please create a pull request if I missed any conference - response time usually 
 
 # Contributor 
 
-Matanel Khakaf
+Matanel Khakaf (added four conferences)
 
