@@ -27,21 +27,6 @@
 | 5/2025 | RSA Conference (RSAC) | N/A | [YouTube](https://www.youtube.com/playlist?list=PL5OdmBrO1Lpme_v5jSCgirHFbl8715Hjg) | [#RSAC2025](https://twitter.com/hashtag/RSAC2025)/[@RSAConference](https://twitter.com/RSAConference) | San Francisco, USA | English | [Schedule](https://www.rsaconference.com/events/2025-usa) |
 | 3/2025 | Nullcon Goa 2025 | N/A | [Recordings](https://goa2025.nullcon.net/goa-2025/recordings) | [@nullcon](https://twitter.com/nullcon) | Goa, India | English | [Schedule](https://goa2025.nullcon.net/goa-2025/schedule) |
 
-# 2025 Conferences
-
-| Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
-|---|---|---|---|---|---|---|---|
-| 12/2025 | Black Hat Europe 2025 | [Slides](https://blackhat.com/eu-25/briefings/schedule/) | [YouTube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWwc5RANR9knvWpotKVXPWm) | [#BlackHatEurope](https://twitter.com/hashtag/BlackHatEurope)/[@BlackHatEvents](https://twitter.com/BlackHatEvents) | London, UK | English | [Schedule](https://blackhat.com/eu-25/schedule.html) |
-| 9/2025 | fwd:cloudsec Europe 2025 | N/A | [YouTube](https://www.youtube.com/playlist?list=PLCPCP1pNWD7PKviLdbD9DanpoTiqzWuoj) | [@fwdcloudsec](https://twitter.com/fwdcloudsec) | Berlin, Germany | English | [Schedule](https://fwdcloudsec.org/conference/europe/schedule.html) |
-| 8/2025 | DEF CON 33 | N/A | [YouTube](https://www.youtube.com/playlist?list=PL9fPq3eQfaaBB9HANwjaTlKFuVhRxkdz2) | [@defcon](https://twitter.com/defcon) | Las Vegas, USA | English | [Schedule](https://defcon.outel.org/dcwp/dc33/) |
-| 8/2025 | Black Hat USA 2025 | [Slides](https://blackhat.com/us-25/briefings/schedule/) | [YouTube](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtV3t9TlkRZBmIfcIC6THE) | [#BlackHatUSA](https://twitter.com/hashtag/BlackHatUSA)/[@BlackHatEvents](https://twitter.com/BlackHatEvents) | Las Vegas, USA | English | [Schedule](https://blackhat.com/us-25/schedule.html) |
-| 6/2025 | Security Fest 2025 | N/A | [YouTube](https://www.youtube.com/playlist?list=PL0Jph6SmWIuOWy5yXAU4Ndg95VdGtPJXe) | [@securityfest](https://twitter.com/securityfest) | Gothenburg, Sweden | English | [Event Page](https://securityfest.com/about/) |
-| 6/2025 | 37th Annual FIRST Conference | N/A | [YouTube](https://www.youtube.com/playlist?list=PLBAUUhONOrO81e07ErZclykFgacbncbSZ) | [#FIRSTCON25](https://twitter.com/hashtag/FIRSTCON25)/[@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg) | Copenhagen, Denmark | English | [Schedule](https://www.first.org/conference/2025/program) |
-| 6/2025 | TROOPERS25 | N/A | [YouTube](https://www.youtube.com/playlist?list=PL1eoQr97VfJmSBNAP-n5cs81ScoZ0lKrF) | N/A | Heidelberg, Germany | English | [Schedule](https://www.troopers.de/troopers25/agenda/) |
-| 6/2025 | fwd:cloudsec North America 2025 | N/A | [YouTube](https://www.youtube.com/playlist?list=PLCPCP1pNWD7M-hHBOymDR5vkPib0tkZd9) | [@fwdcloudsec](https://twitter.com/fwdcloudsec) | Denver, USA | English | [Schedule](https://fwdcloudsec.org/conference/archive/2025/) |
-| 5/2025 | BlueHat India 2025 | N/A | [YouTube](https://www.youtube.com/playlist?list=PLXkmvDo4Mfusllv9W1uWiY2Cz1dst7oLe) | [#BlueHatIndia](https://twitter.com/hashtag/BlueHatIndia)/[@MSFTBlueHat](https://twitter.com/MSFTBlueHat) | Hyderabad, India | English | [Agenda](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/msrc/images/partner-images/BlueHatIndia2025Handout.pdf) |
-| 3/2025 | Nullcon Goa 2025 | N/A | [Recordings](https://goa2025.nullcon.net/goa-2025/recordings) | [@nullcon](https://twitter.com/nullcon) | Goa, India | English | [Schedule](https://goa2025.nullcon.net/goa-2025/schedule) |
-
 # 2024 Conferences
 
 | Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
