@@ -1,3 +1,16 @@
+# 2023 Conferences
+
+| Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
+|---|---|---|---|---|---|---|---|
+| 12/2023 | Black Hat Europe 2023 | [Slides](https://blackhat.com/eu-23/briefings/schedule/) | [YouTube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWPWBB9geQyXPXzbPu8cQ0p) | [#BlackHatEurope](https://twitter.com/hashtag/BlackHatEurope)/[@BlackHatEvents](https://twitter.com/BlackHatEvents) | London, UK | English | [Schedule](https://blackhat.com/eu-23/schedule.html) |
+| 8/2023 | Black Hat USA 2023 | [Slides](https://blackhat.com/us-23/briefings/schedule/) | [YouTube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWalnnt-9eYELxbEcYBPB6I) | [#BlackHatUSA](https://twitter.com/hashtag/BlackHatUSA)/[@BlackHatEvents](https://twitter.com/BlackHatEvents) | Las Vegas, USA | English | [Schedule](https://blackhat.com/us-23/schedule.html) |
+| 7/2023 | fwd:cloudsec | N/A | [YouTube](https://www.youtube.com/playlist?list=PLCPCP1pNWD7MR1SwekwbZls9TGzqo_LHx) | [@fwdcloudsec](https://twitter.com/fwdcloudsec) | N/A | English | [Schedule](https://fwdcloudsec.org/conference/archive/2023/) |
+| 6/2023 | 35th Annual FIRST Conference | N/A | [YouTube](https://www.youtube.com/playlist?list=PLBAUUhONOrO9N0asZ-XF1ilKfdGgeSmyr) | [#FIRSTCON23](https://twitter.com/hashtag/FIRSTCON23)/[@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg) | Montreal, Canada | English | [Schedule](https://www.first.org/conference/2023/program) |
+| 6/2023 | REcon 2023 | N/A | [YouTube](https://www.youtube.com/playlist?list=PLcwesr-0gPLoW_8XOywYMFaf1HFMxIVN6) | N/A | Montreal, Canada | English | [Schedule](https://recon.cx/2023/schedule.html) |
+| 6/2023 | TROOPERS23 | N/A | [YouTube](https://www.youtube.com/playlist?list=PL1eoQr97VfJnCtUube7SQIMD6x9TBKSsI) | N/A | Heidelberg, Germany | English | [Schedule](https://www.troopers.de/troopers23/agenda/) |
+| 5/2023 | Black Hat Asia 2023 | [Slides](https://blackhat.com/asia-23/briefings/schedule/) | [YouTube](https://www.youtube.com/playlist?list=PLH15HpR5qRsVYkxRzpOFrQTjNGXuYVpis) | [#BlackHatAsia](https://twitter.com/hashtag/BlackHatAsia)/[@BlackHatEvents](https://twitter.com/BlackHatEvents) | Singapore | English | [Schedule](https://blackhat.com/asia-23/schedule.html) |
+| 2/2023 | OWASP Global AppSec Dublin 2023 | N/A | [YouTube](https://www.youtube.com/playlist?list=PLpr-xdpM8wG8479ud_l4W93WU5MP2bg78) | [@OWASP](https://twitter.com/OWASP) | Dublin, Ireland | English | [Schedule](https://dublin.globalappsec.org/schedule/) |
+
 # 2022 Conferences ([Excel Sheet](https://docs.google.com/spreadsheets/d/1lp5JRfC1xKYtAAT2X0ghYoLUZFJh4fpdKfrEE2Fk_RE/edit?usp=sharing))
 
 | Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
