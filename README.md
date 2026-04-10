@@ -1,3 +1,14 @@
+# 2025 Conferences
+
+| Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
+|---|---|---|---|---|---|---|---|
+| 12/2025 | Black Hat Europe 2025 | [Slides](https://blackhat.com/eu-25/briefings/schedule/) | [YouTube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWwc5RANR9knvWpotKVXPWm) | [#BlackHatEurope](https://twitter.com/hashtag/BlackHatEurope)/[@BlackHatEvents](https://twitter.com/BlackHatEvents) | London, UK | English | [Schedule](https://blackhat.com/eu-25/schedule.html) |
+| 9/2025 | fwd:cloudsec Europe 2025 | N/A | [YouTube](https://www.youtube.com/playlist?list=PLCPCP1pNWD7PKviLdbD9DanpoTiqzWuoj) | [@fwdcloudsec](https://twitter.com/fwdcloudsec) | Berlin, Germany | English | [Schedule](https://fwdcloudsec.org/conference/europe/schedule.html) |
+| 8/2025 | Black Hat USA 2025 | [Slides](https://blackhat.com/us-25/briefings/schedule/) | [YouTube](https://www.youtube.com/playlist?list=PLH15HpR5qRsXtV3t9TlkRZBmIfcIC6THE) | [#BlackHatUSA](https://twitter.com/hashtag/BlackHatUSA)/[@BlackHatEvents](https://twitter.com/BlackHatEvents) | Las Vegas, USA | English | [Schedule](https://blackhat.com/us-25/schedule.html) |
+| 6/2025 | 37th Annual FIRST Conference | N/A | [YouTube](https://www.youtube.com/playlist?list=PLBAUUhONOrO81e07ErZclykFgacbncbSZ) | [#FIRSTCON25](https://twitter.com/hashtag/FIRSTCON25)/[@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg) | Copenhagen, Denmark | English | [Schedule](https://www.first.org/conference/2025/program) |
+| 6/2025 | TROOPERS25 | N/A | [YouTube](https://www.youtube.com/playlist?list=PL1eoQr97VfJmSBNAP-n5cs81ScoZ0lKrF) | N/A | Heidelberg, Germany | English | [Schedule](https://www.troopers.de/troopers25/agenda/) |
+| 6/2025 | fwd:cloudsec North America 2025 | N/A | [YouTube](https://www.youtube.com/playlist?list=PLCPCP1pNWD7M-hHBOymDR5vkPib0tkZd9) | [@fwdcloudsec](https://twitter.com/fwdcloudsec) | Denver, USA | English | [Schedule](https://fwdcloudsec.org/conference/archive/2025/) |
+
 # 2024 Conferences
 
 | Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
