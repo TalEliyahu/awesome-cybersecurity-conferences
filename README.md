@@ -1,3 +1,9 @@
+# 2026 Conferences
+
+| Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
+|---|---|---|---|---|---|---|---|
+| 4/2026 | 2026 Cyber Threat Intelligence Conference | N/A | [YouTube](https://www.youtube.com/playlist?list=PLBAUUhONOrO8F9hElQsT1pMa-VuAPp4QH) | [#FIRSTCTI26](https://twitter.com/hashtag/FIRSTCTI26)/[@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg) | Munich, Germany | English | [Schedule](https://www.first.org/conference/firstcti26/program) |
+
 # 2025 Conferences
 
 | Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
