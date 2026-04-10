@@ -1,3 +1,17 @@
+# 2024 Conferences
+
+| Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
+|---|---|---|---|---|---|---|---|
+| 12/2024 | Black Hat Europe 2024 | [Slides](https://blackhat.com/eu-24/briefings/schedule/) | [YouTube](https://www.youtube.com/playlist?list=PLH15HpR5qRsXx69nei1C1BMC5MdvZm12I) | [#BlackHatEurope](https://twitter.com/hashtag/BlackHatEurope)/[@BlackHatEvents](https://twitter.com/BlackHatEvents) | London, UK | English | [Schedule](https://blackhat.com/eu-24/schedule.html) |
+| 9/2024 | OWASP Global AppSec San Francisco 2024 | N/A | [YouTube](https://www.youtube.com/playlist?list=PLpr-xdpM8wG9n8P_9RN9svUAxof2B89y5) | [@OWASP](https://twitter.com/OWASP) | San Francisco, USA | English | [Schedule](https://sf.globalappsec.org/schedule/) |
+| 8/2024 | Black Hat USA 2024 | [Slides](https://blackhat.com/us-24/briefings/schedule/) | [YouTube](https://www.youtube.com/playlist?list=PLH15HpR5qRsUiLYPNSylDvlskvS_RSzee) | [#BlackHatUSA](https://twitter.com/hashtag/BlackHatUSA)/[@BlackHatEvents](https://twitter.com/BlackHatEvents) | Las Vegas, USA | English | [Schedule](https://blackhat.com/us-24/schedule.html) |
+| 6/2024 | 36th Annual FIRST Conference | N/A | [YouTube](https://www.youtube.com/playlist?list=PLBAUUhONOrO_yBBGmJTFlr3ekKRE8SSLQ) | [#FIRSTCON24](https://twitter.com/hashtag/FIRSTCON24)/[@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg) | Fukuoka, Japan | English | [Schedule](https://www.first.org/conference/2024/program) |
+| 6/2024 | REcon 2024 | N/A | [YouTube](https://www.youtube.com/playlist?list=PLcwesr-0gPLozUKhGOiiACc4LZ2rTLhBh) | N/A | Montreal, Canada | English | [Schedule](https://recon.cx/2024/schedule.html) |
+| 6/2024 | TROOPERS24 | N/A | [YouTube](https://www.youtube.com/playlist?list=PL1eoQr97VfJlYX4dCDdvHk3QLJCEnKw6c) | N/A | Heidelberg, Germany | English | [Schedule](https://troopers.de/troopers24/agenda/) |
+| 6/2024 | fwd:cloudsec North America 2024 | N/A | [YouTube](https://www.youtube.com/playlist?list=PLCPCP1pNWD7PoUaDtU_T9XJSJ6d7cSfjl) | [@fwdcloudsec](https://twitter.com/fwdcloudsec) | Arlington, USA | English | [Schedule](https://fwdcloudsec.org/conference/archive/2024/) |
+| 4/2024 | 2024 Cyber Threat Intelligence Conference | N/A | [YouTube](https://www.youtube.com/playlist?list=PLBAUUhONOrO9hZ9-PFOGVhtIc56yjLQOO) | [#FIRSTCTI24](https://twitter.com/hashtag/FIRSTCTI24)/[@FIRSTdotOrg](https://twitter.com/FIRSTdotOrg) | Berlin, Germany | English | [Schedule](https://www.first.org/conference/firstcti24/) |
+| 4/2024 | Black Hat Asia 2024 | [Slides](https://blackhat.com/asia-24/briefings/schedule/) | [YouTube](https://www.youtube.com/playlist?list=PLH15HpR5qRsWJ70J405J7z1GUYPeCBpXy) | [#BlackHatAsia](https://twitter.com/hashtag/BlackHatAsia)/[@BlackHatEvents](https://twitter.com/BlackHatEvents) | Singapore | English | [Schedule](https://blackhat.com/asia-24/schedule.html) |
+
 # 2023 Conferences
 
 | Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
