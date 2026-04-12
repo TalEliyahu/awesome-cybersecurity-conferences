@@ -1,3 +1,35 @@
+# Awesome Cybersecurity Conferences
+
+**Live site:** [awesomecybersecurityconferences.com](https://awesomecybersecurityconferences.com)
+
+Discover and watch the latest cybersecurity conference talks. This repository is the community-maintained **markdown catalog** of conferences (slides, video, social, location, language, schedule). The same data feeds the searchable web app.
+
+## What you can do on the website
+
+- **Watch** — Full catalog with search and filters (year, country, language, series), grid or list view, links to playlists, video, slides, and schedules.
+- **Upcoming conferences** — Standalone events with dates, locations, CFP links, and official sites.
+- **CFP** — Upcoming call-for-papers deadlines.
+- **Country guides** — Local security conference scenes by country.
+- **By year** — Browse past and recent events by year.
+
+With sign-in (optional): save items to Watch Later, follow series, and notifications—see the [web app repository](https://github.com/TalEliyahu/cyber-vid-finder) for setup.
+
+## Repositories
+
+| | |
+|---|---|
+| **This list** | [TalEliyahu/awesome-cybersecurity-conferences](https://github.com/TalEliyahu/awesome-cybersecurity-conferences) — conference tables below |
+| **Website (source)** | [TalEliyahu/cyber-vid-finder](https://github.com/TalEliyahu/cyber-vid-finder) — React app for [awesomecybersecurityconferences.com](https://awesomecybersecurityconferences.com) |
+
+## Contributing
+
+Open a pull request if a conference is missing or wrong—response time is usually within 48 hours. You can also use **Add a playlist** or **Add a CFP** on the site (drafts stay in your browser; use GitHub or email to propose catalog changes, as described on the site).
+
+Thanks to contributors, including **Matanel Khakaf** (added four conferences).
+
+---
+
+Below is the running conference list and resources.
 # 2026 Conferences
 
 | Month/Year | Conference | Slides | Video | Twitter/Hashtag | Location | Language | Schedule
@@ -186,12 +218,3 @@
 - [InfoconDB](https://infocondb.org/) - InfoconDB catalogs and cross-references hacker and infosec conferences.
 - [Infosec Events](https://twitter.com/i/lists/1578319592195227649) - Twitter list follwing all cybersecurity conferences accounts.
 - [InfoCon](https://infocon.org/) - InfoCon is a community supported, non-commercial archive of all the past hacking related convention material that can be found.
-
-# Contributing
-
-Please create a pull request if I missed any conference - response time usually within 48 hours.
-
-# Contributor 
-
-Matanel Khakaf (added four conferences)
-
